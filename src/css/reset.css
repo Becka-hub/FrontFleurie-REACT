@@ -1,0 +1,28 @@
+.Reset{
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.Reset .bloc_reset{
+    background-color: white;
+    padding: 20px;
+    margin-top: 20px;
+}
+.Reset .bloc_reset h2{
+    color:rgb(56, 56, 56)!important;
+}
+.Reset .bloc_reset label{
+    color:rgb(80, 80, 80)!important;
+}
+.Reset .bloc_reset button{
+    margin-top: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+    background-color: aquamarine;
+    color: white;
+    border-radius: 0!important;
+    height: 40px;
+    transition: 0.5s ease-in-out;
+}
+.Reset .bloc_reset button:hover{
+    transform: scale(1.1);
+}

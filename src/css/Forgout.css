@@ -1,0 +1,26 @@
+.btn_envoyeMail{
+    padding-left: 25px;
+    padding-right: 25px;
+    background-color: aquamarine!important;
+    color: white!important;
+    border-radius: 0!important;
+    height: 37px!important;
+    transition: 0.5s ease-in-out!important;
+}
+.btn_envoyeMail:hover{
+    transform: scale(1.1);
+    background-color: aquamarine!important;
+    color: white!important;
+}
+.btn_fermer{
+    color: wheat!important;
+    border-radius: 0!important;
+    height: 37px!important;
+    padding-left: 20px!important;
+    padding-right: 20px!important;
+    padding-top: 5px!important;
+    padding-bottom: 10px!important;
+    transition: 0.5s ease-in-out!important;
+    background-color: rgb(56, 56, 56)!important;
+    border:none!important;
+}
